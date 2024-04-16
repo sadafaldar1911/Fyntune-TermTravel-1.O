@@ -1,5 +1,5 @@
 ---
-name: Term Bug report
+name: Travel Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -12,8 +12,8 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...' (page)
-2. Click on '....' (components)
+1. Go to '...'
+2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
@@ -29,18 +29,21 @@ Steps to reproduce the behavior:
 4. Occupation : Salaried / Self Employed
 5. Education : Post Graduate / Graduate / 12th pass / 10th Pass
 6. Annual Income : _ Lacs
-7. Life Cover Amount : 
-8. Cover Upto Age : 
-9. Pay till Age : 
-10. Frequency : Annual / Half Yearly / Quaterly / Monthly
-11. Plan Type : 
-12. Nominee Gets : Lumpsum / Monthly Income / Lumpsum + Monthly Income
-
-**URL**
-The URL of the page where the issue occured
+7. Get Money As : 
+8. Invest for : 
+9. Returns after : 
+10. Income for :
+11. Frequency : Annual / Half Yearly / Quaterly / Monthly
+12. Plan Type : 
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**URL**
+The URL of the page where the issue occured.
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Additional context**
+Add any other context about the problem here.
